@@ -1,0 +1,15 @@
+# Окружение и локальные настройки
+.venv/
+.env
+.vscode/
+
+# Файлы Python и Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Данные загружаются по ссылкам из README
+/data/
+*.csv
+*.csv.zip
+ExchangeRates.zip
